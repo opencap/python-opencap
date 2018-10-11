@@ -1,0 +1,7 @@
+dist
+build
+
+opencap.egg-info
+setup.py
+
+__pycache__
