@@ -5,3 +5,4 @@ opencap.egg-info
 setup.py
 
 __pycache__
+*.pyc
